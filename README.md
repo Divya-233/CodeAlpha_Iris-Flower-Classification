@@ -1,35 +1,32 @@
 # Iris Flower Classification
 
-## Project Description
-This project is developed as part of the CodeAlpha Data Science Internship. It uses Machine Learning to classify Iris flowers into three species:
-- Iris Setosa
-- Iris Versicolor
-- Iris Virginica
+## Description
+This project is developed as part of the CodeAlpha Data Science Internship.
 
-The model is trained using the famous Iris dataset available in Scikit-learn.
+The objective is to classify Iris flowers into three species using Machine Learning.
+
+## Dataset
+- Iris Dataset (Scikit-learn)
 
 ## Technologies Used
 - Python
 - Scikit-learn
-- Pandas
-- Matplotlib
 
-## Machine Learning Algorithm
+## Algorithm
 - Decision Tree Classifier
 
 ## Features
-- Loads the Iris dataset
-- Splits the dataset into training and testing sets
-- Trains a Decision Tree model
-- Predicts flower species
-- Displays model accuracy and classification report
-
-## Dataset
-The Iris dataset is provided by the Scikit-learn library.
+- Load Iris dataset
+- Train a Machine Learning model
+- Predict flower species
+- Display model accuracy
+- Generate classification report
 
 ## Output
-The program predicts the species of Iris flowers and prints the model accuracy and classification report.
+The model predicts whether the flower belongs to:
+- Iris Setosa
+- Iris Versicolor
+- Iris Virginica
 
 ## Author
 Divya Dharshini
-CodeAlpha Data Science Internship
